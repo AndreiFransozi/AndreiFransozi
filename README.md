@@ -1,18 +1,15 @@
 ### Olá eu sou o Andrei Fransozi 👋
 - 🌱 Estudando Javascript
 - 📫 Contate me pelo e-mail: andreifransozi14@gmail.com
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 -  <div>
   <a href="https://github.com/AndreiFransozi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiFransozi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-@@ -17,11 +16,6 @@
   <img align="center" alt="Andrei-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Andrei-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Andrei-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-
-
+    </div>
 
 
 <div> 
