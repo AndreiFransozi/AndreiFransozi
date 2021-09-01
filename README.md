@@ -1,7 +1,7 @@
 ### Olá eu sou o Andrei Fransozi 👋
 - 🌱 Estudando Javascript
 - 📫 Contate me pelo e-mail: andreifransozi14@gmail.com
-- 😄 Pronouns: ele/dele
+
   <div>
   <a href="https://github.com/AndreiFransozi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiFransozi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
