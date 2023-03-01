@@ -25,7 +25,4 @@
   <a href="https://www.youtube.com/channel/UCNZLCel2Gfobbw8i01MbWnQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href = "mailto:andreifransozi14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andrei-augusto-fransozi-403a311a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/AndreiFransozi/AndreiFransozi/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
