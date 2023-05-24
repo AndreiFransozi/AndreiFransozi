@@ -1,5 +1,6 @@
 ### Olá eu sou o Andrei Augusto Fransozi 👋
 - 🌱 Estudando Javascript
+- 🌱 Estudando PHP
 - 📫 Contate me pelo e-mail: andreifransozi14@gmail.com
 
   <div>
