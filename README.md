@@ -1,4 +1,5 @@
 ### Olá eu sou o Andrei Augusto Fransozi 👋
+- Desenvolvedor Mobile (Kotlin)
 - 🌱 Estudando Javascript
 - 🌱 Estudando PHP
 - 📫 Contate me pelo e-mail: andreifransozi14@gmail.com
